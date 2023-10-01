@@ -1,0 +1,18 @@
+html{
+    background-color:lightslategray;
+}
+div{
+    margin: 100px;
+    text-align: center;
+}
+p{
+    font-size: 15pxpx;
+    font-family: 'Onest', sans-serif;
+    text-align: center;
+    
+
+
+}
+img{
+    border: 1.5px solid black;
+}
